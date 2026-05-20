@@ -1,0 +1,1 @@
+# coc-hymnal-child-safety
